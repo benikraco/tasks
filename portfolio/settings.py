@@ -81,7 +81,7 @@ DATABASES = {
         'USER': 'cloud',
         'PASSWORD': 'cloud',
         'HOST': '192.169.0.21',
-        'PORT': '5432',
+        'PORT': '5433',
     }
 }
 
